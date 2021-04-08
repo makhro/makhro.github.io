@@ -2,7 +2,7 @@
 main:
   - title: "Start"
     url: /start.html
-  - title: "Projktarbeiten"
+  - title: "Projektarbeiten"
     url: /projektarbeiten
   - title: "Forschung"
     url: /forschung
