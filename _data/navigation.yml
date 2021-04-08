@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "Start"
+    url: /start.html
+  - title: "Projktarbeiten"
+    url: /projektarbeiten
+  - title: "Forschung"
+    url: /forschung
+    children:
+      - title: "Secular Stagnation"
+        url: /sec-stag
+      - title: "Demographics of Shocks in Occupational Biographies"
+        url: /occ-bio
+  - title: "Tools"
+    url: /tools
+    children:
+      - title: "Markdown"
+        url: /markdown
+  - title: "Datenschutz"
+    url: /datenschutz
+  - title: "▼"
+    url: /menu1
+    children:
+      - title: "Sitemap"
+        url: /sitemap.xml
+      - title: "RSS"
+        url: /feed.xml
+      - title: "Index"
+        url: /index.html

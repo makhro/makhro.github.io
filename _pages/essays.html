@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Essays"
+permalink: /essays/
+---
+
+{% for post in site.essays reversed %}
+  {% include archive-single.html %}
+{% endfor %}

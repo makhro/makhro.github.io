@@ -1,0 +1,12 @@
+---
+layout: page
+title: LAM UR Blog
+seotitle: LAM UR Blog Posts
+description:
+---
+
+{% for post in paginator.posts %}
+	{% include post-entry.html %}
+{% endfor %}
+
+{% include paginator.html %}
