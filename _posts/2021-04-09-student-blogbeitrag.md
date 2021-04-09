@@ -7,7 +7,7 @@ type: post
 updated: 2021-04-09T13:31:00+00:00
 headerimage: assets/images/lehre/man_with_cat.jpg
 sitemap:
-  lastmod: 2021-04-08T13:39:00+00:00
+  lastmod: 2021-04-09T13:39:00+00:00
 url: /student-blogbeitrag/
 feature-img:
 tags:
@@ -26,5 +26,5 @@ Folgende Punkte sind beim Verfassen eines Beitrags zu beachten:
 - Blogbeiräge werden mit Markdown erstellt. Einen kurzen Überblick über die wesentlichsten Befehle finden Sie in [diesem Beitrag]({% post_url 2021-02-03-markdown %}). Neben Markdown können auch HTML-Kommandos zur Anwendung kommen.
 - Nähere Informationen zu Fragen zum Erstellen von Beiträgen für Github Pages mithilfe von Markdown und HTML können Sie im Internet finden. Sollten Sie nicht fündig werden, so stehen Ihnen selbstverständlich auch Mitarbeiter des Lehstuhls als Ansprechpartner zur Verfügung, (z.B. johannes.ossadnik@uni-rostock.de).
 - Sollten Sie Bilder in Ihrem Post verwenden, so stellen Sie uns diese bitte ebenfalls zur Verfügung. Achten Sie bei der Verwendung von Medien Dritter bitte sicher, dass das Urheberrecht gewahrt ist.
-- Dieser Post kann Ihnen als Vorlage zur Erstellung eines Beitrags dienen: [Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers]({% post_url 2021-02-03-wilhelm-single-mothers %}).<br>
+- Dieser Post kann Ihnen als Vorlage zur Erstellung eines Beitrags dienen: [Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers]({% post_url 2021-04-08-wilhelm-single-mothers %}).<br>
 Den kompletten Rohcode können Sie hier einsehen: [raw.githubusercontent.com](https://raw.githubusercontent.com/makhro/makhro.github.io/master/_posts/2021-04-08-wilhelm-single-mothers.md).
