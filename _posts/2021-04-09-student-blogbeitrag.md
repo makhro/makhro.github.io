@@ -4,10 +4,10 @@ title: "So können Sie einen Beitrag erstellen"
 description: "Studenten wird nach Rücksprache mit dem Lehrstuhl die Möglichkeit geboten, Beiträge für den Blog zu verfassen."
 author: JMO
 type: post
-updated: 2021-04-09T12:31:00+00:00
+updated: 2021-04-09T13:31:00+00:00
 headerimage: assets/images/lehre/man_with_cat.jpg
 sitemap:
-  lastmod: 2021-04-08T15:39:00+00:00
+  lastmod: 2021-04-08T13:39:00+00:00
 url: /student-blogbeitrag/
 feature-img:
 tags:
