@@ -1,6 +1,6 @@
 ---
 seotitle: Publizieren auf dem Blog des Lehrstuhls
-title: "So können Sie einen Post erstellen"
+title: "So können Sie einen Beitrag erstellen"
 description: "Studenten wird nach Rücksprache mit dem Lehrstuhl die Möglichkeit geboten, Beiträge für den Blog zu verfassen."
 author: JMO
 type: post
@@ -26,5 +26,5 @@ Folgende Punkte sind beim Verfassen eines Beitrags zu beachten:
 - Blogbeiräge werden mit Markdown erstellt. Einen kurzen Überblick über die wesentlichsten Befehle finden Sie in [diesem Beitrag]({% post_url 2021-02-03-markdown %}). Neben Markdown können auch HTML-Kommandos zur Anwendung kommen.
 - Nähere Informationen zu Fragen zum Erstellen von Beiträgen für Github Pages mithilfe von Markdown und HTML können Sie im Internet finden. Sollten Sie nicht fündig werden, so stehen Ihnen selbstverständlich auch Mitarbeiter des Lehstuhls als Ansprechpartner zur Verfügung, (z.B. johannes.ossadnik@uni-rostock.de).
 - Sollten Sie Bilder in Ihrem Post verwenden, so stellen Sie uns diese bitte ebenfalls zur Verfügung. Achten Sie bei der Verwendung von Medien Dritter bitte sicher, dass das Urheberrecht gewahrt ist.
-- Dieser Post kann Ihnen als Vorlage zur Erstellung eines Beitrags dienen: [Stefan Wilhelm: Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers]({% post_url 2021-02-03-wilhelm-single-mothers %}).<br>
+- Dieser Post kann Ihnen als Vorlage zur Erstellung eines Beitrags dienen: [Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers]({% post_url 2021-02-03-wilhelm-single-mothers %}).<br>
 Den kompletten Rohcode können Sie hier einsehen: [raw.githubusercontent.com](https://raw.githubusercontent.com/makhro/makhro.github.io/master/_posts/2021-04-08-wilhelm-single-mothers.md).

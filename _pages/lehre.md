@@ -1,10 +1,14 @@
 ---
-title: "Forschung"
-permalink: /forschung.html
+title: "Lehre"
+permalink: /lehre.html
 ---
 
-# Aktuelle Projekte am Lehrstuhl
+# Beiträge zur Lehre
+Die folgenden Beiträge haben einen Bezug zum Lehrangebot des Lehrstuhls.<br>
+Für nähere Informationen zum aktuellen Lehrangebot besuchen Sie bitte die
+Homepage des Lehrstuhls oder das Vorlesungsverzeichnis.
+<br>
+<br>
 
-
-- [<b>Secular Stagnation</b>]({% post_url 2021-04-08-sec-stag %})
-- [<b>Demographics of Shocks in Occupational Biographies</b>]({% post_url 2021-04-08-occ-bio %})
+## Mitwirkung am Blog
+- [<b>So können Sie einen Beitrag erstellen</b>]({% post_url 2021-04-09-student-blogbeitrag %})
