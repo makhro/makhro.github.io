@@ -12,7 +12,7 @@ url: /wilhelm-single-mothers/
 feature-img:
 description: Seminar Project
 tags:
-    - Seminararbeit
+    - Projektarbeit
     - welfare
     - labor supply
     - labor economics
