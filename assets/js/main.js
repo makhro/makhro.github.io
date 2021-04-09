@@ -31,6 +31,6 @@ $(document).ready(function(){
       indentChildren: true,
       expandIcon: '+',
       collapseIcon: '-',
-      resizeWidth: '800'
+      resizeWidth: '200'
   });
 });
