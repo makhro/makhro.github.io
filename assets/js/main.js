@@ -25,11 +25,14 @@ $(document).ready(function(){
   // init slimmenu responsive navigation
   $('#navigation').slimmenu(
   {
-      collapserTitle: 'Main Menu',
+      collapserTitle: 'Menu',
       animSpeed: 'medium',
       easingEffect: null,
       indentChildren: true,
       expandIcon: '+',
-      collapseIcon: '-'
+      collapseIcon: '-',
+      resizeWidth: '800',
+      expandIcon: '<i>&#9660;</i>',
+      collapseIcon: '<i>&#9650;</i>'
   });
 });
