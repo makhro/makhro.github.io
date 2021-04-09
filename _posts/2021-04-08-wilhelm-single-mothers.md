@@ -154,7 +154,7 @@ The newly introduced TANF benefits stopped the converging trend in employment of
 - Moffitt, R. A. (2013) The Great Recession and the Social Safety Net. The ANNALS of the American Academy of Political and Social Science. 650(1), 143-166. Available at [journals.sagepub.com](https://journals.sagepub.com/doi/pdf/10.1177/0002716213499532).
 
 ## Further reading
-- Blank, R. M., Card, D., & Robins, P. K. (1999). Financial incentives for increasing work and income among low-income families. NBER working paper, (w6998).
+- Blank, R. M., Card, D., & Robins, P. K. (1999). Financial incentives for increasing work and income among low-income families. NBER Working Paper Series. No. 6998. Available at [www.nber.org](https://www.nber.org/system/files/working_papers/w6998/w6998.pdf)
 
 - Kahzan, O. (12.05.2014) How Welfare Reform Left Single Moms Behind. The Atlantic. Available at [www.theatlantic.com](https://www.theatlantic.com/business/archive/2014/05/how-welfare-reform-left-single-moms-behind/361964/#:~:text=The%20effect%20was%20that%20thousands,the%20poor%2C%E2%80%9D%20Moffitt%20writes).
 
