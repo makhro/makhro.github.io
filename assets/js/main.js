@@ -31,8 +31,6 @@ $(document).ready(function(){
       indentChildren: true,
       expandIcon: '+',
       collapseIcon: '-',
-      resizeWidth: '800',
-      expandIcon: '<i>&#9660;</i>',
-      collapseIcon: '<i>&#9650;</i>'
+      resizeWidth: '800'
   });
 });
