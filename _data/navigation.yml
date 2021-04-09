@@ -18,7 +18,7 @@ main:
         url: /markdown
   - title: "Datenschutz"
     url: /datenschutz
-  - title: "▼"
+  - title: "Seite"
     url: /menu1
     children:
       - title: "Sitemap"
