@@ -11,6 +11,8 @@ main:
         url: /sec-stag
       - title: "Demographics of Shocks in Occupational Biographies"
         url: /occ-bio
+  - title: "Lehre"
+    url: /lehre.html
   - title: "Tools"
     url: /tools
     children:

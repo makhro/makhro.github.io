@@ -1,17 +1,15 @@
 ---
 seotitle: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers
 title: "Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers"
-description: "Stefan Wilhelm: Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers"
+description: Project in Labor Economics, winter term 2020
 author: Stefan Wilhelm
-type: post
-updated: 2021-04-08T15:39:00+00:00
-headerimage:
+type: post # Definiert das Layoutformat, Standard ist post.
+updated: 2021-04-08T15:39:00+00:00 # Das Update-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
+headerimage: # Bild, welches im Kopfbereich der Seite gezeigt wird.
 sitemap:
-  lastmod: 2021-04-08T15:39:00+00:00
-url: /wilhelm-single-mothers/
-feature-img:
-description: Seminar Project
-tags:
+  lastmod: 2021-04-08T15:39:00+00:00  # Das Lastmod-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
+url: /wilhelm-single-mothers/ # Die URL wird durch den Lehrstuhl erstellt, bitte nicht aufüllen.
+tags: # Tags werden durch den lehrstuhl vergeben, bitte nicht ausfüllen.
     - Projektarbeit
     - welfare
     - labor supply
