@@ -16,7 +16,7 @@ tags:
     - welfare
     - labor supply
     - labor economics
-    - Masterstudium
+    - Student Master
 ---
 
 # Project in Labor Economics, winter term 2020/21
