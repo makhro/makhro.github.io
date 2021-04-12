@@ -1,7 +1,7 @@
 ---
 seotitle: Network for Data-Intensive Research on Aging
 title: Data on demographics, economics and health outcomes of aging and life course
-description: LIFE COUCE CENTER of the University of Minnesota (U.S.) recently initiated the Network for Data-Intensive Research on Aging in collaboration with IPUMS. The project manages and maintains the world's largest data collections on population.
+description: The LIFE COURSE CENTER of the University of Minnesota (U.S.) recently initiated the Network for Data-Intensive Research on Aging in collaboration with IPUMS. The project manages and maintains the world's largest data collections on population.
 author: JMO
 type: post
 updated: 2021-04-12T17:02:00+00:00
@@ -16,7 +16,7 @@ tags:
   - demographics
 ---
 ## Demographics, economics and health outcomes of aging and life course
-**LIFE COUCE CENTER** of the University of Minnesota (U.S.) recently initiated the *Network for Data-Intensive Research on Aging* in collaboration with **IPUMS**. The project manages and maintains the world's largest data collections on population.<br>
+The **LIFE COURSE CENTER** of the University of Minnesota (U.S.) recently initiated the *Network for Data-Intensive Research on Aging* in collaboration with **IPUMS**. The project manages and maintains the world's largest data collections on population.<br>
 The data features information on approximately 3 billion persons from 2,000 censuses an surveys, covering 100 countries. <br>
 The data should facilitate and deepen understanding of the life course and health outcome of aging, as well as of the demography and economics of this process.<br><br>
 Since demographic research is strongly represented in Rostock by the Institute of Sociology and Demography at the University of Rostock and by the  Max Planck Institute for Demographic Research, this program seems like made for interdisciplinary research and/or collaboration at the Faculty of Economics and Social Sciences. <br>
