@@ -15,9 +15,8 @@ main:
     url: /lehre.html
   - title: "Tools"
     url: /tools
-    children:
-      - title: "Markdown"
-        url: /markdown
+  - title: "Neuigkeiten"
+    url: /news
   - title: "Datenschutz"
     url: /datenschutz
   - title: "Seite"

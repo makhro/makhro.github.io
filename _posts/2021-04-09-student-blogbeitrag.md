@@ -16,7 +16,8 @@ tags:
     - Seminararbeit
     - Markdown
 ---
-
+![Schrödinger und seine Katze.](assets/images/lehre/man_with_cat.jpg "Schrödinger und seine Katze.")
+<sub><sup>Image by Unsplash.com</sup></sub>
 In Rücksprache mit dem Lehrstuhl haben Studierende auf diesem Blog die Möglichket, Ihre am Lehstuhl erstellten Arbeiten in Form eines wissenschaftlichen Blogbeitrags zu veröffentichen.
 Dieser Blog zielt darauf ab, über die Arbeit des Lehrstuhls, aber auch über die Arbeit der Studenten und den Inhalt der Lehre zu informieren. Dem Autor des Beitrags bietet sich die Möglichket, seine Arbeit und die erlangten Kenntnisse und Fähigkeiten zu präsentieren.
 
