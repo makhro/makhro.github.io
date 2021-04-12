@@ -1,14 +1,14 @@
 ---
-seotitle:  Demographics of Shocks in Occupational Biographies
-title: Demographics of Shocks in Occupational Biographies
-description: The effects of demographic characterstics on occuopational biographies in the aftermath of a shock.
+seotitle: Network for Data-Intensive Research on Aging
+title: Data on demographics, economics and health outcomes of aging and life course
+description: LIFE COUCE CENTER of the University of Minnesota (U.S.) recently initiated the Network for Data-Intensive Research on Aging in collaboration with IPUMS. The project manages and maintains the world's largest data collections on population.
 author: JMO
 type: post
-updated: 2021-04-08T12:39:00+00:00
+updated: 2021-04-12T17:02:00+00:00
 headerimage:
 sitemap:
-  lastmod: 2021-04-08T12:39:00+00:00
-url: /sec_stag/
+  lastmod: 2021-04-12T17:02:00+00:00
+url: /ipums-aging/
 feature-img:
 tags:
   - IPUMS
