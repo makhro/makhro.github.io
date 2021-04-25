@@ -1,14 +1,14 @@
 ---
 seotitle: Wage Inequalities and the Rise in Returns to Skill
-title: "Kevin Rowoldt: Wage Inequalities and the Rise in Returns to Skill"
+title: "Ricardo Rowoldt: Wage Inequalities and the Rise in Returns to Skill"
 description: Project in Labor Economics, winter term 2020
-author: Kevin Rowoldt
+author: Ricardo Rowoldt
 type: post # Definiert das Layoutformat, Standard ist post.
 updated: 2021-04-23T13:23:00+00:00 # Das Update-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
 headerimage: # Bild, welches im Kopfbereich der Seite gezeigt wird.
 sitemap:
-  lastmod: 2021-04-23T13:23:00+00:00  # Das Lastmod-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
-url: /wilhelm-single-mothers/ # Die URL wird durch den Lehrstuhl erstellt, bitte nicht aufüllen.
+  lastmod: 2021-04-25T20:35:00+00:00  # Das Lastmod-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
+url: /rowoldt-wage-skill/ # Die URL wird durch den Lehrstuhl erstellt, bitte nicht aufüllen.
 tags: # Tags werden durch den lehrstuhl vergeben, bitte nicht ausfüllen.
     - Projektarbeit
     - inequality
