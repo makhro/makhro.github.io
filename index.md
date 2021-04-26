@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 comments: false
 seotitle: Lehrstuhl für Angewandte Makroökonomie der Universität Rostock
 description: Blog des Lehrstuhls für Angewandte Makroöonomie unter Prof. Dr. Britta Gehrke, WSF Universität Rostock.
