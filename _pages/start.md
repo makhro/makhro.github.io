@@ -11,5 +11,3 @@ DE-18057 Rostock**
 <a href="https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/">Offizielle Homepage</a> <br>
 Blog-Administrator: johannes.ossadnik@uni-rostock.de<br>
 Weitere Kontaktmöglichkeiten sind auf der Homepage des Lehrstuhls aufgeführt.
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter" alt="Hits">
