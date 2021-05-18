@@ -4,7 +4,7 @@ permalink: /links.html
 ---
 
 # Helpful links for study, research and teaching
-
+<br>
 ## Study
 
 - <a href="https://quantecon.org/"><b>QuantEcon.org</b></a> <br>
