@@ -17,6 +17,8 @@ main:
     url: /tools
   - title: "Neuigkeiten"
     url: /news
+  - title: "Links"
+    url: /links
   - title: "Datenschutz"
     url: /datenschutz
   - title: "Seite"
