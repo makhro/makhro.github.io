@@ -45,7 +45,7 @@ Working with and analyzing data, software and coding, presentation and visualiza
 
 ## Example
 If you want a preview of what it feels like to work with Jupyter notebooks, you can follow this link to have a look at a multi-language demo at mybinder.org (which is a great service for hosting your notebooks and rendering them interactive): <br>
-https://hub.gke2.mybinder.org/user/binder-examples-i-language-demo-42daf2k5/notebooks/23-Cross-Language-Integration.ipynb
+<a href="https://hub.gke2.mybinder.org/user/binder-examples-i-language-demo-42daf2k5/notebooks/23-Cross-Language-Integration.ipynb">https://hub.gke2.mybinder.org/user/binder-examples-i-language-demo-42daf2k5/notebooks/23-Cross-Language-Integration.ipynb</a>
 
 
 <sup>1</sup> Kernels require a installation of the reference software.
