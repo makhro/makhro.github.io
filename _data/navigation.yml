@@ -2,26 +2,26 @@
 main:
   - title: "Start"
     url: /start.html
-  - title: "Projektarbeiten"
-    url: /projektarbeiten
-  - title: "Forschung"
-    url: /forschung
+  - title: "Project Work"
+    url: /project work
+  - title: "Research"
+    url: /research
     children:
       - title: "Secular Stagnation"
         url: /sec-stag
       - title: "Demographics of Shocks in Occupational Biographies"
         url: /occ-bio
-  - title: "Lehre"
-    url: /lehre.html
+  - title: "Teaching"
+    url: /teaching.html
   - title: "Tools"
     url: /tools
-  - title: "Neuigkeiten"
+  - title: "News"
     url: /news
   - title: "Links"
     url: /links
-  - title: "Datenschutz"
-    url: /datenschutz
-  - title: "Seite"
+  - title: "Privacy (German only)"
+    url: /privacy
+  - title: "Site"
     url: /menu1
     children:
       - title: "Sitemap"

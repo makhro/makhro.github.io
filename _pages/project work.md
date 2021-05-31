@@ -1,6 +1,6 @@
 ---
-title: "Projektarbeiten"
-permalink: /projektarbeiten.html
+title: "Project Work"
+permalink: /project_work.html
 ---
 
 ## Labor Economics, Master

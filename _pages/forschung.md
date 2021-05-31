@@ -1,9 +1,9 @@
 ---
-title: "Forschung"
-permalink: /forschung.html
+title: "Research"
+permalink: /research.html
 ---
 
-# Aktuelle Projekte am Lehrstuhl
+# Current projects of the chair
 
 
 - [<b>Secular Stagnation</b>]({% post_url 2021-04-08-sec-stag %})

@@ -1,7 +1,7 @@
 ---
 seotitle: Publish on the blog of the chair
 title: "How to contribute to the blog"
-description: "Studenten wird nach Rücksprache mit dem Lehrstuhl die Möglichkeit geboten, Beiträge für den Blog zu verfassen."
+description: "In consultation with the chair, students have the opportunity to write blog posts."
 author: JMO
 type: post
 updated: 2021-04-09T13:31:00+00:00
