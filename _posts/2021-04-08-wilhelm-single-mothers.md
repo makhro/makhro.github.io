@@ -10,7 +10,7 @@ sitemap:
   lastmod: 2021-04-08T15:39:00+00:00  # Das Lastmod-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
 url: /wilhelm-single-mothers/ # Die URL wird durch den Lehrstuhl erstellt, bitte nicht aufüllen.
 tags: # Tags werden durch den lehrstuhl vergeben, bitte nicht ausfüllen.
-    - Projektarbeit
+    - project work
     - welfare
     - labor supply
     - labor economics

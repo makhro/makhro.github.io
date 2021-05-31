@@ -6,17 +6,19 @@ description: Blog des Lehrstuhls für Angewandte Makroöonomie unter Prof. Dr. B
 permalink: index.html
 ---
 # Lehrstuhl für Angewandte Makroöonomie, WSF Universität Rostock
+### Chair of Applied Macroeconomics, Faculty of Economic and Social Sciences
 ## Prof. Dr. Britta Gehrke
 
-Herzlich willkommen auf dem Blog des Lehrstuhls. Auf den folgenden Seiten wird Einblick in die Arbeit und Forschung des Lehrstuhls. Auch Abschluss-, Projekt und Seminararbeiten von Studierenden werden hier veröffentlicht. Daneben finden sich Ideen und Anregungen für Forschung und Lehre.
+Welcome to the blog of the chair.
+The following pages provide insights into the work and research of out the chair. In addition, theses, projects and seminar papers of students are published here, as well as hints and tips on research and teaching.
 
-Über die obige Navigationsleiste können Sie durch die einzelnen Rubriken navigieren.
+Click on the menu above to navigate through the different categories.
 
 **Lehrstuhl für Angewandte Makroökonomie
 Universität Rostock
 Ulmenstraße 69
 DE-18057 Rostock**
 
-<a href="https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/">Offizielle Homepage</a> <br>
-Blog-Administrator: johannes.ossadnik@uni-rostock.de<br>
-Weitere Kontaktmöglichkeiten sind auf der Homepage des Lehrstuhls aufgeführt.
+<a href="https://www.vwl.uni-rostock.de/institut/professuren-i/angewandte-makrooekonomie-prof-dr-britta-gehrke/">Official homepage</a> <br>
+Blog administrator: johannes.ossadnik@uni-rostock.de<br>
+Additional contact information is listed on the home page.

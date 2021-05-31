@@ -10,7 +10,7 @@ sitemap:
   lastmod: 2021-04-25T20:35:00+00:00  # Das Lastmod-Datum setzt der Lehrstuhl, bitte nicht ausfüllen.
 url: /rowoldt-wage-skill/ # Die URL wird durch den Lehrstuhl erstellt, bitte nicht aufüllen.
 tags: # Tags werden durch den lehrstuhl vergeben, bitte nicht ausfüllen.
-    - Projektarbeit
+    - project work
     - inequality
     - wage
     - labor economics
