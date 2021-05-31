@@ -3,7 +3,7 @@ main:
   - title: "Start"
     url: /start.html
   - title: "Project Work"
-    url: /project work
+    url: /project_work
   - title: "Research"
     url: /research
     children:
